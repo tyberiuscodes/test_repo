@@ -1,4 +1,5 @@
 # ignore database config files
 cfd.php
 /*/cfd.php
-/resources/*/something.js
+/resources/js/something.js
+index.html
