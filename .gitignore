@@ -1,2 +1,3 @@
 # ignore database config files
 cfd.php
+error_log
